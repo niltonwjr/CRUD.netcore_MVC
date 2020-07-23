@@ -197,7 +197,6 @@ D:\Fontes\CRUD.netcore_MVC\Crud_NODB\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAn
 D:\Fontes\CRUD.netcore_MVC\Crud_NODB\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Fontes\CRUD.netcore_MVC\Crud_NODB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Fontes\CRUD.netcore_MVC\Crud_NODB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Fontes\CRUD.netcore_MVC\Crud_NODB\obj\Debug\netcoreapp3.1\Crud_NODB.csprojAssemblyReference.cache
 D:\Fontes\CRUD.netcore_MVC\Crud_NODB\obj\Debug\netcoreapp3.1\Crud_NODB.AssemblyInfoInputs.cache
 D:\Fontes\CRUD.netcore_MVC\Crud_NODB\obj\Debug\netcoreapp3.1\Crud_NODB.AssemblyInfo.cs
 D:\Fontes\CRUD.netcore_MVC\Crud_NODB\obj\Debug\netcoreapp3.1\Crud_NODB.csproj.CoreCompileInputs.cache
